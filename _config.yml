@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Utkarsh Nigam"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "assets/images/bio-photo.jpeg"
   bio              : "M.S. Data Science at The George Washington University"
   location         : "Washington, D.C."
   email            :
