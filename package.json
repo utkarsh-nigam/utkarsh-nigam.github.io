@@ -36,7 +36,8 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "dependencies": {
-        "bootstrap": "4.5.0"
+        "bootstrap": "4.5.0",
+        "lodash": ">=4.17.19"
     },
     "devDependencies": {
         "autoprefixer": "9.8.0",
